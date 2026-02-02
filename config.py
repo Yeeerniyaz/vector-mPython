@@ -4,7 +4,7 @@ import os
 CONFIG_FILE = "vector_settings.json"
 
 default_settings = {
-    "DEVICE_NAME": "Vector_Sensor",
+    "DEVICE_NAME": "Vector_Party",
     "NUM_LEDS": 200,
     "LED_PIN": 4,
     "ENS_ADDR": 0x53,
